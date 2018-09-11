@@ -42,7 +42,7 @@ public class SolveMaze {
                 maze.move();
             }
         }
-
+//done
         if (maze.isFinished()) {
             System.out.println("You solved the maze!");
         } else {
